@@ -36,8 +36,8 @@ console.log(mlpgObj);
 // Calendar with location
 const mlpgCal = obj.calendar(
   new Date('2022-02-27T05:22:43.984Z'),
-  12.972,
-  77.594
+  11.0737,
+  76.2860
 );
 console.log(mlpgCal);
 ```
