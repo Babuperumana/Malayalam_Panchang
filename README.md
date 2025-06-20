@@ -1,4 +1,4 @@
-# Mlpg-Panchang
+# Malayalam Panchangam
 
 Its a cool package build to calculate Tithi (Moon), Nakshatra, Karna, Yoga, Raasi (Zodic Sign) and Ayanamsa. It can also be use to predict Masa(Hindu month) and Ritu (season).
 
