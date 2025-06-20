@@ -51,7 +51,7 @@ console.log(mlpgCal);
 console.log(mlpgObj.Day);
 ```
 ```json
-{ "ino": 1, "name": "ସୋମବାର", "name_en_UK": "Monday" }
+{ "ino": 1, "name": "തിങ്കളാഴ്ച", "name_en_UK": "Monday" }
 ```
 
 ### 🌙 Paksha
@@ -59,7 +59,7 @@ console.log(mlpgObj.Day);
 console.log(mlpgObj.Paksha);
 ```
 ```json
-{ "ino": 1, "name": "କୃଷ୍ଣ", "name_en_IN": "Krishna", "name_en_UK": "Waning Moon" }
+{ "ino": 1, "name": "കൃഷ്ണ", "name_en_IN": "Krishna", "name_en_UK": "Waning Moon" }
 ```
 
 ### 📆 Tithi
@@ -68,7 +68,7 @@ console.log(mlpgObj.Tithi);
 ```
 ```json
 {
-  "name": "ପଞ୍ଚମୀ",
+  "name": "പഞ്ചമി",
   "name_en_IN": "Panchami",
   "ino": 19,
   "start": "2022-02-20T15:35:33.000Z",
@@ -82,7 +82,7 @@ console.log(mlpgObj.Nakshatra);
 ```
 ```json
 {
-  "name": "ସ୍ଵାତୀ",
+  "name": "ചോതി",
   "name_en_IN": "Swati",
   "ino": 14,
   "start": "2022-02-21T10:46:30.000Z",
@@ -96,7 +96,7 @@ console.log(mlpgObj.Karna);
 ```
 ```json
 {
-  "name": "ତୈତିଳ",
+  "name": "കഴുത",
   "name_en_IN": "Taitula",
   "ino": 3,
   "start": "2022-02-21T03:03:39.000Z",
@@ -110,7 +110,7 @@ console.log(mlpgObj.Yoga);
 ```
 ```json
 {
-  "name": "ବୃଦ୍ଧି",
+  "name": "വൃദ്ധി",
   "name_en_IN": "Vridhi",
   "ino": 10,
   "start": "2022-02-21T07:34:10.000Z",
@@ -131,7 +131,7 @@ console.log(mlpgObj.Ayanamsa);
 console.log(mlpgObj.Raasi);
 ```
 ```json
-{ "name": "ତୁଳା", "ino": 6, "name_en_UK": "Libra" }
+{ "name": "തുലാം", "ino": 6, "name_en_UK": "Libra" }
 ```
 
 ### 📅 Julian Date
@@ -151,7 +151,7 @@ console.log(mlpgObj.Gana);
   "ino": 0,
   "name_en_IN": "Devata",
   "name_en_UK": "God",
-  "name": "ଦେବତା"
+  "name": "ദേവത"
 }
 ```
 
@@ -164,7 +164,7 @@ console.log(mlpgObj.Guna);
   "ino": 0,
   "name_en_IN": "Rajas",
   "name_en_UK": "passion, activity, movement",
-  "name": "ରାଜସ୍"
+  "name": "രജസ്"
 }
 ```
 
@@ -176,7 +176,7 @@ console.log(mlpgObj.Trinity);
 {
   "ino": 1,
   "name_en_IN": "Vishnu",
-  "name": "ବିଷ୍ଣୁ"
+  "name": "വിഷ്ണു"
 }
 ```
 
