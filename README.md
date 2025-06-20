@@ -21,7 +21,7 @@ npm install --save mlpg-panchang
 import { MlpgPanchang } from 'mlpg-panchang';
 
 // CommonJS
-// const { MlpgPanchang } = require('mlpg-panchang');
+const { MlpgPanchang } = require('mlpg-panchang');
 ```
 
 ### Create instance and calculate
