@@ -129,7 +129,7 @@ console.log(mlpgObj.Day);
 **Output**
 
 ```chef
-{ ino: 1, name: 'ସୋମବାର', name_en_UK: 'Monday' }
+{ ino: 1, name: 'തിങ്കളാഴ്ച്ച', name_en_UK: 'Monday' }
 ```
 
 | Parameter    | Type     | Description                              |
@@ -153,7 +153,7 @@ console.log(mlpgObj.Paksha);
 ```chef
 {
     ino: 1,
-    name: 'କୃଷ୍ଣ',
+    name: 'കൃഷ്ണ',
     name_en_IN: 'Krishna',
     name_en_UK: 'Waning Moon'
 }
@@ -180,7 +180,7 @@ console.log(mlpgObj.Tithi);
 
 ```chef
 {
-    name: 'ପଞ୍ଚମୀ',
+    name: 'പഞ്ചമി',
     name_en_IN: 'Panchami',
     ino: 19,
     start: 2022-02-20T15:35:33.000Z,
@@ -210,7 +210,7 @@ console.log(mlpgObj.Nakshatra);
 
 ```chef
 {
-    name: 'ସ୍ଵାତୀ',
+    name: 'ചോതി',
     name_en_IN: 'Swati',
     ino: 14,
     start: 2022-02-21T10:46:30.000Z,
@@ -240,7 +240,7 @@ console.log(mlpgObj.Karna);
 
 ```chef
 {
-    name: 'ତୈତିଳ',
+    name: 'തൈതുല',
     name_en_IN: 'Taitula',
     ino: 3,
     start: 2022-02-21T03:03:39.000Z,
@@ -270,7 +270,7 @@ console.log(mlpgObj.Yoga);
 
 ```chef
 {
-    name: 'ବୃଦ୍ଧି',
+    name: 'വൃദ്ധി',
     name_en_IN: 'Vridhi',
     ino: 10,
     start: 2022-02-21T07:34:10.000Z,
@@ -315,7 +315,7 @@ console.log(mlpgObj.Raasi);
 **Output**
 
 ```chef
-{ name: 'ତୁଳା', ino: 6, name_en_UK: 'Libra' }
+{ name: 'തുലാം', ino: 6, name_en_UK: 'Libra' }
 ```
 
 | Parameter    | Type     | Description                                      |
@@ -355,7 +355,7 @@ console.log(mlpgObj.Gana);
     "ino": 0,
     "name_en_IN": "Devata",
     "name_en_UK": "God",
-    "name": "ଦେବତା"
+    "name": "ദേവത"
 }
 ```
 
@@ -381,7 +381,7 @@ console.log(mlpgObj.Guna);
   "ino": 0,
   "name_en_IN": "Rajas",
   "name_en_UK": "passion, activity, movement",
-  "name": "ରାଜସ୍"
+  "name": "രജസ്‌"
 }
 ```
 
@@ -406,7 +406,7 @@ console.log(mlpgObj.Trinity);
 {
   "ino": 1,
   "name_en_IN": "Vishnu",
-  "name": "ବିଷ୍ଣୁ"
+  "name": "വിഷ്‌ണു"
 }
 ```
 
@@ -455,7 +455,7 @@ console.log(mlpgCal.Tithi);
 **Output**
 
 ```chef
-{ name: 'ଦ୍ଵାଦଶୀ', name_en_IN: 'Dvadasi', ino: 26 }
+{ name: 'ദ്വാദശി', name_en_IN: 'Dvadasi', ino: 26 }
 ```
 
 | Parameter    | Type     | Description                                |
@@ -479,7 +479,7 @@ console.log(mlpgCal.Paksha);
 ```chef
 {
     ino: 1,
-    name: 'କୃଷ୍ଣ',
+    name: 'കൃഷ്‌ണ',
     name_en_IN: 'Krishna',
     name_en_UK: 'Waning Moon'
 }
@@ -505,7 +505,7 @@ console.log(mlpgCal.Nakshatra);
 **Output**
 
 ```chef
-{ name: 'ପୂର୍ବଷାଢା', name_en_IN: 'Purva Ashadha', ino: 19 }
+{ name: 'പൂരാടം', name_en_IN: 'Purva Ashadha', ino: 19 }
 ```
 
 | Parameter    | Type     | Description                                    |
@@ -527,7 +527,7 @@ console.log(mlpgCal.Yoga);
 **Output**
 
 ```chef
-{ name: 'ବ୍ୟତିପାତ', name_en_IN: 'Vyatipata', ino: 16 }
+{ name: 'ബ്യാഘാത്', name_en_IN: 'Vyatipata', ino: 16 }
 ```
 
 | Parameter    | Type     | Description                               |
@@ -549,7 +549,7 @@ console.log(mlpgCal.Karna);
 **Output**
 
 ```chef
-{ name: 'ବାଳବ', name_en_IN: 'Balava', ino: 1 }
+{ name: 'ബാലവ', name_en_IN: 'Balava', ino: 1 }
 ```
 
 | Parameter    | Type     | Description                                |
@@ -573,7 +573,7 @@ console.log(mlpgCal.Masa);
 ```chef
 {
     ino: 10,
-    name: 'ଫାଲ୍ଗୁନ',
+    name: 'ഫാൽഗുനം',
     name_en_UK: 'Phalguna'
 }
 ```
@@ -597,7 +597,7 @@ console.log(mlpgCal.Raasi);
 **Output**
 
 ```chef
-{ ino: 10, name_en_UK: 'Aquarius', name: 'କୁମ୍ଭ' }
+{ ino: 10, name_en_UK: 'Aquarius', name: 'കുംഭം' }
 ```
 
 | Parameter    | Type     | Description                                      |
@@ -619,7 +619,7 @@ console.log(mlpgCal.Ritu);
 **Output**
 
 ```chef
-{ ino: 5, name: 'ବସନ୍ତ', name_en_UK: 'Winter' }
+{ ino: 5, name: 'ശീതം', name_en_UK: 'Winter' }
 ```
 
 | Parameter    | Type     | Description                                    |
@@ -643,7 +643,7 @@ console.log(mlpgObj.Gana);
   "ino": 1,
   "name_en_IN": "Manushya",
   "name_en_UK": "Human",
-  "name": "ମନୁଷ୍ୟ"
+  "name": "മനുഷ്യൻ"
 }
 ```
 
@@ -669,7 +669,7 @@ console.log(mlpgObj.Guna);
     "ino": 1,
     "name_en_IN": "Tamas",
     "name_en_UK": "ignorance, inertia, laziness",
-    "name": "ତମାସ୍"
+    "name": "തമസികം"
 }
 ```
 
@@ -694,7 +694,7 @@ console.log(mlpgObj.Trinity);
 {
   "ino": 2,
   "name_en_IN": "Shiva",
-  "name": "ଶିବ"
+  "name": "ശിവ"
 }
 ```
 
